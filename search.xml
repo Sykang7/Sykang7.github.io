@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hello</title>
+    <url>/2021/10/15/hello/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>categories</category>
+      </categories>
+  </entry>
+  <entry>
     <title>newpapername</title>
     <url>/2021/10/14/newpapername/</url>
     <content><![CDATA[<p>hexo</p>
