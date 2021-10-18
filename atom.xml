@@ -6,7 +6,7 @@
   <link href="http://otc28.top/atom.xml" rel="self"/>
   
   <link href="http://otc28.top/"/>
-  <updated>2021-10-18T02:06:22.042Z</updated>
+  <updated>2021-10-18T03:27:41.902Z</updated>
   <id>http://otc28.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://otc28.top/2021/10/15/hello/"/>
     <id>http://otc28.top/2021/10/15/hello/</id>
     <published>2021-10-15T07:32:35.000Z</published>
-    <updated>2021-10-18T02:06:22.042Z</updated>
+    <updated>2021-10-18T03:27:41.902Z</updated>
     
     
       
@@ -40,27 +40,7 @@
     
     <category term="多线程" scheme="http://otc28.top/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
-  </entry>
-  
-  <entry>
-    <title>newpapername</title>
-    <link href="http://otc28.top/2021/10/14/newpapername/"/>
-    <id>http://otc28.top/2021/10/14/newpapername/</id>
-    <published>2021-10-14T01:43:05.000Z</published>
-    <updated>2021-10-15T07:22:30.354Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;hexo&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
+    <category term="设计模式" scheme="http://otc28.top/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
