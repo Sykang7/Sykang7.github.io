@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Autumn</title>
+  
+  
+  <link href="http://otc28.top/atom.xml" rel="self"/>
+  
+  <link href="http://otc28.top/"/>
+  <updated>2021-10-18T03:41:53.039Z</updated>
+  <id>http://otc28.top/</id>
+  
+  <author>
+    <name>sykang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单例模式如何在多线程下保证单例</title>
+    <link href="http://otc28.top/2021/10/18/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8B%E4%BF%9D%E8%AF%81%E5%8D%95%E4%BE%8B/"/>
+    <id>http://otc28.top/2021/10/18/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8B%E4%BF%9D%E8%AF%81%E5%8D%95%E4%BE%8B/</id>
+    <published>2021-10-18T03:36:32.000Z</published>
+    <updated>2021-10-18T03:41:53.039Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;测试文章发布&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="开发问题" scheme="http://otc28.top/categories/%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98/"/>
+    
+    
+    <category term="多线程" scheme="http://otc28.top/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+    <category term="设计模式" scheme="http://otc28.top/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+</feed>
