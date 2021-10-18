@@ -3,9 +3,10 @@
   <entry>
     <title>hello</title>
     <url>/2021/10/15/hello/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>测试文档</p>
+]]></content>
       <categories>
-        <category>categories</category>
+        <category>测试</category>
       </categories>
   </entry>
   <entry>
